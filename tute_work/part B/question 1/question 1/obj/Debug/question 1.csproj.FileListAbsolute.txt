@@ -1,0 +1,7 @@
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\tute_work\part B\question 1\question 1\obj\Debug\question 1.csproj.AssemblyReference.cache
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\tute_work\part B\question 1\question 1\obj\Debug\question 1.csproj.CoreCompileInputs.cache
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\tute_work\part B\question 1\question 1\bin\Debug\question 1.exe.config
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\tute_work\part B\question 1\question 1\bin\Debug\question 1.exe
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\tute_work\part B\question 1\question 1\bin\Debug\question 1.pdb
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\tute_work\part B\question 1\question 1\obj\Debug\question 1.exe
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\tute_work\part B\question 1\question 1\obj\Debug\question 1.pdb
