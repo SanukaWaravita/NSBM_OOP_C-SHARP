@@ -1,0 +1,7 @@
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\21 7 2025\in class task - collegue code\in class task - collegue code\bin\Debug\in class task - collegue code.exe.config
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\21 7 2025\in class task - collegue code\in class task - collegue code\bin\Debug\in class task - collegue code.exe
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\21 7 2025\in class task - collegue code\in class task - collegue code\bin\Debug\in class task - collegue code.pdb
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\21 7 2025\in class task - collegue code\in class task - collegue code\obj\Debug\in class task - collegue code.csproj.AssemblyReference.cache
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\21 7 2025\in class task - collegue code\in class task - collegue code\obj\Debug\in class task - collegue code.csproj.CoreCompileInputs.cache
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\21 7 2025\in class task - collegue code\in class task - collegue code\obj\Debug\in class task - collegue code.exe
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\21 7 2025\in class task - collegue code\in class task - collegue code\obj\Debug\in class task - collegue code.pdb

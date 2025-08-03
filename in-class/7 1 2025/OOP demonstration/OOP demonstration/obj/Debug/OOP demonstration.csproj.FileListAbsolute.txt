@@ -1,0 +1,8 @@
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\7 1 2025\OOP demonstration\OOP demonstration\bin\Debug\OOP demonstration.exe.config
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\7 1 2025\OOP demonstration\OOP demonstration\bin\Debug\OOP demonstration.exe
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\7 1 2025\OOP demonstration\OOP demonstration\bin\Debug\OOP demonstration.pdb
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\7 1 2025\OOP demonstration\OOP demonstration\obj\Debug\OOP demonstration.csproj.AssemblyReference.cache
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\7 1 2025\OOP demonstration\OOP demonstration\obj\Debug\OOP demonstration.csproj.CoreCompileInputs.cache
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\7 1 2025\OOP demonstration\OOP demonstration\obj\Debug\OOP demonstration.exe
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\7 1 2025\OOP demonstration\OOP demonstration\obj\Debug\OOP demonstration.pdb
+D:\NsbmGreenUniversity\Y1S2\C# OOP\in-class\7 1 2025\OOP demonstration\OOP demonstration\obj\Debug\OOP demonstration.exe.config
