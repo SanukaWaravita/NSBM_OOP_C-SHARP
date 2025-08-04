@@ -1,0 +1,11 @@
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\bin\Debug\polyApp.exe.config
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\bin\Debug\polyApp.exe
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\bin\Debug\polyApp.pdb
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\obj\Debug\polyApp.csproj.AssemblyReference.cache
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\obj\Debug\polyApp.Form1.resources
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\obj\Debug\polyApp.Properties.Resources.resources
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\obj\Debug\polyApp.csproj.GenerateResource.cache
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\obj\Debug\polyApp.csproj.CoreCompileInputs.cache
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\obj\Debug\polyApp.exe
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\obj\Debug\polyApp.pdb
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\4 8 2025\polyApp\polyApp\obj\Debug\polyApp.exe.config
