@@ -1,0 +1,12 @@
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\bin\Debug\WinformsAppPractice.exe.config
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\bin\Debug\WinformsAppPractice.exe
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\bin\Debug\WinformsAppPractice.pdb
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\obj\Debug\WinformsAppPractice.csproj.AssemblyReference.cache
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\obj\Debug\WinformsAppPractice.MarkSubmission.resources
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\obj\Debug\WinformsAppPractice.Properties.Resources.resources
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\obj\Debug\WinformsAppPractice.csproj.GenerateResource.cache
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\obj\Debug\WinformsAppPractice.csproj.CoreCompileInputs.cache
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\obj\Debug\WinformsAppPractice.exe
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\obj\Debug\WinformsAppPractice.pdb
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\obj\Debug\WinformsAppPractice.exe.config
+D:\NsbmGreenUniversity\Y1S2\C#_OOP\C#\in-class\12 8 2025\WinformsAppPractice\WinformsAppPractice\obj\Debug\WinformsAppPractice.MarkDisplayForm.resources

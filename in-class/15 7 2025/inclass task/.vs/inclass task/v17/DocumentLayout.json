@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NsbmGreenUniversity\\Y1S2\\C# OOP\\in-class\\15 7 2025\\inclass task\\",
+  "WorkspaceRootPath": "D:\\NsbmGreenUniversity\\Y1S2\\C#_OOP\\C#\\in-class\\15 7 2025\\inclass task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CB7BFF5-1FDC-46EA-972B-AF1FB3462B3A}|inclass task\\inclass task.csproj|d:\\nsbmgreenuniversity\\y1s2\\c# oop\\in-class\\15 7 2025\\inclass task\\inclass task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CB7BFF5-1FDC-46EA-972B-AF1FB3462B3A}|inclass task\\inclass task.csproj|d:\\nsbmgreenuniversity\\y1s2\\c#_oop\\c#\\in-class\\15 7 2025\\inclass task\\inclass task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CB7BFF5-1FDC-46EA-972B-AF1FB3462B3A}|inclass task\\inclass task.csproj|solutionrelative:inclass task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\NsbmGreenUniversity\\Y1S2\\C# OOP\\in-class\\15 7 2025\\inclass task\\inclass task\\Program.cs",
+              "DocumentMoniker": "D:\\NsbmGreenUniversity\\Y1S2\\C#_OOP\\C#\\in-class\\15 7 2025\\inclass task\\inclass task\\Program.cs",
               "RelativeDocumentMoniker": "inclass task\\Program.cs",
-              "ToolTip": "D:\\NsbmGreenUniversity\\Y1S2\\C# OOP\\in-class\\15 7 2025\\inclass task\\inclass task\\Program.cs",
+              "ToolTip": "D:\\NsbmGreenUniversity\\Y1S2\\C#_OOP\\C#\\in-class\\15 7 2025\\inclass task\\inclass task\\Program.cs",
               "RelativeToolTip": "inclass task\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
